@@ -18,7 +18,8 @@
     <content><![CDATA[<p>Flutter踩坑</p>
 ]]></content>
       <categories>
-        <category>-[技术,Flutter]</category>
+        <category>技术</category>
+        <category>Flutter</category>
       </categories>
       <tags>
         <tag>Flutter</tag>
@@ -30,7 +31,8 @@
     <content><![CDATA[<p>Android踩坑</p>
 ]]></content>
       <categories>
-        <category>-[技术,Android]</category>
+        <category>技术</category>
+        <category>Android</category>
       </categories>
       <tags>
         <tag>Android</tag>
@@ -42,7 +44,8 @@
     <content><![CDATA[<p>Kotlin踩坑</p>
 ]]></content>
       <categories>
-        <category>-[技术,Kotlin]</category>
+        <category>技术</category>
+        <category>Kotlin</category>
       </categories>
       <tags>
         <tag>Kotlin</tag>
@@ -54,7 +57,8 @@
     <content><![CDATA[<p>Python踩坑</p>
 ]]></content>
       <categories>
-        <category>-[技术, Python]</category>
+        <category>技术</category>
+        <category>Python</category>
       </categories>
       <tags>
         <tag>Python</tag>
