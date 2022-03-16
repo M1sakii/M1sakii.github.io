@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My First Blog</title>
+    <url>/2022/03/15/hello-world/</url>
+    <content><![CDATA[<p>Flag：每周写2-3篇blog</p>
+]]></content>
+      <categories>
+        <category>Flag</category>
+      </categories>
+      <tags>
+        <tag>Flag</tag>
+      </tags>
+  </entry>
+</search>
