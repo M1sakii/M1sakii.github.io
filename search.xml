@@ -12,4 +12,52 @@
         <tag>Flag</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Flutter踩坑</title>
+    <url>/2022/03/16/Flutter/</url>
+    <content><![CDATA[<p>Flutter踩坑</p>
+]]></content>
+      <categories>
+        <category>-[技术,Flutter]</category>
+      </categories>
+      <tags>
+        <tag>Flutter</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Android踩坑</title>
+    <url>/2022/03/16/Android/</url>
+    <content><![CDATA[<p>Android踩坑</p>
+]]></content>
+      <categories>
+        <category>-[技术,Android]</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kotlin踩坑</title>
+    <url>/2022/03/16/Kotlin/</url>
+    <content><![CDATA[<p>Kotlin踩坑</p>
+]]></content>
+      <categories>
+        <category>-[技术,Kotlin]</category>
+      </categories>
+      <tags>
+        <tag>Kotlin</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python踩坑</title>
+    <url>/2022/03/16/Python/</url>
+    <content><![CDATA[<p>Python踩坑</p>
+]]></content>
+      <categories>
+        <category>-[技术, Python]</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
 </search>
