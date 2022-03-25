@@ -1,1 +1,1 @@
-https://m1sakii.github.io/archives/
+https://m1sakii.github.io/
